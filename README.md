@@ -41,7 +41,7 @@ Google Fonts – Typographie Plus Jakarta Sans.
 
 
 
-🚀 Installation & Utilisation Locale
+## Installation & Utilisation Locale
 
 Cloner le projet
 
@@ -53,20 +53,16 @@ cd profile-card
 Lancer le projet
 Ouvrez simplement le fichier index.html dans n'importe quel navigateur web moderne.
 
-🌐 Déploiement
+ ## Déploiement
 
 Le projet est hébergé et accessible directement via Vercel :
-👉 Voir le site en ligne (ou votre lien Vercel)
+👉 Voir le site en ligne : https://gildas-profile-card.vercel.app/
 
 👤 Auteur
 
 Gildas Tshibanda
 
-Role : Aspiring Software Engineer / Android Developer
-
-Université : Université de Lubumbashi (UNILU)
-
-Localisation : Lubumbashi, Haut-Katanga, RDC
+Aspiring Software Engineer / Android Developer
 
 GitHub : @GildasTshibanda
 
